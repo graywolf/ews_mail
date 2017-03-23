@@ -3,8 +3,6 @@ require 'savon'
 module EWS
 module Mail
 
-	VERSION = '1.0.1'
-
 	WSDL = 'https://outlook.office365.com/EWS/Services.wsdl'
 	ENDPOINT = 'https://outlook.office365.com/EWS/Exchange.asmx'
 	NAMESPACES = {

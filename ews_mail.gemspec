@@ -1,8 +1,6 @@
-require_relative 'lib/ews_mail.rb'
-
 Gem::Specification.new do |s|
 	s.name = 'ews_mail'
-	s.version = EWS::Mail::VERSION
+	s.version = '1.0.2'
 	s.date = Time.now.strftime '%Y-%m-%d'
 	s.summary = 'Send simple mails via EWS'
 	s.description = <<~HEREDOC
