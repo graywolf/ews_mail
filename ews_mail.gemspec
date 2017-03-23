@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
 		like ours which has outlook via office365, but firewall
 		block SMTP (don't ask me why, dunno).
 		HEREDOC
-	s.author = 'Tomas Volf'
-	s.email = 'tv185035@ncr.com'
+	s.author = 'Gray Wolf'
+	s.email = 'wolf@wolfsden.cz'
 	s.files = ['lib/ews_mail.rb']
 	s.homepage = 'https://github.com/graywolf/ews_mail'
 	s.license = 'MIT'
